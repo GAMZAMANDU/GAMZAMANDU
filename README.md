@@ -23,7 +23,7 @@
 
 ![Jeonghyuk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gamzamandu&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gamzamandu&layout=compact&theme=radical) (replace `your-username` with your GitHub username)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gamzamandu&layout=compact&theme=radical)
 
 ## Hobbies
 

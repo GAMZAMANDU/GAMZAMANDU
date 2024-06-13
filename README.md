@@ -10,7 +10,7 @@
 
 - **Languages:** JavaScript, HTML, CSS, SwiftUI, Python3, SQL, ~~Entry~~
 - **Frameworks:** Express
-- **Tools:** Git, GitHub, Visual Studio Code, ChatGPT, MacOS, Xcode, Clion
+- **Tools:** Git, GitHub, Visual Studio Code, ChatGPT, Xcode, Clion
 
 ## Projects
 ### Sorry, Not Found

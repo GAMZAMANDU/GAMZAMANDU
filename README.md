@@ -3,7 +3,7 @@
 ## About Me
 
 - 🎓 Currently a student at **Busan Software Meister High School**.
-- 🌱 Learning web development using **Node.js** and the **Express framework**.
+- 🌱 learning the Express framework of Nordjs and Nextjs
 - 💻 Passionate about coding and continuously improving my skills.
 
 ## Skills
@@ -37,8 +37,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gamzamandu&layout=compact&theme=radical)
 
 ## Hobbies
-
-- Coding
 - Reading Books
 - Playing Chess
 

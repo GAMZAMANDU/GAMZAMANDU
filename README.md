@@ -8,13 +8,24 @@
 
 ## Skills
 
-- **Languages:** JavaScript, HTML, CSS, SwiftUI, Python3, SQL, ~~Entry~~
-- **Frameworks:** Express
-- **Tools:** Git, GitHub, Visual Studio Code, ChatGPT, Xcode, Clion
+**Languages**
+  
+[![My Skills](https://skillicons.dev/icons?i=html,css,swift,python,c)](https://skillicons.dev)
+
+**Frameworks(learning)**
+  
+[![My Skills](https://skillicons.dev/icons?i=express,next)](https://skillicons.dev)
+
+**Tools**
+  
+[![My Skills](https://skillicons.dev/icons?i=vscode,clion)](https://skillicons.dev)
+
+**Design**
+  
+[![My Skills](https://skillicons.dev/icons?i=figma,ps,ai)](https://skillicons.dev)
 
 ## Projects
-### Sorry, Not Found
-
+[바로가기](https://github.com/GAMZAMANDU/12chessBot)
 ## Contact Me
 
 - **Email:** [galbimandu1126@gmail.com](mailto:galbimandu1126@gmail.com)

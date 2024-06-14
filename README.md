@@ -27,6 +27,7 @@
 
 ## Projects
 discord.py를 활용한 십이장기봇 ([바로가기](https://github.com/GAMZAMANDU/12chessBot))
+discord.py를 활용한 게임봇 ([바로가기](https://github.com/GAMZAMANDU/DeathCard))
 
 ## Contact Me
 

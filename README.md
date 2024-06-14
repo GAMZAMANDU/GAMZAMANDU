@@ -3,7 +3,7 @@
 ## About Me
 
 - 🎓 Currently a student at **Busan Software Meister High School**.
-- 🌱 learning the Express framework of Nordjs and Nextjs
+- 🌱 learning the **Express framework** of **Nord.js** and **Next.js**
 - 💻 Passionate about coding and continuously improving my skills.
 
 ## Skills

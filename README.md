@@ -39,6 +39,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gamzamandu&layout=compact&theme=radical)
 
+## Backjun
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=garic)](https://solved.ac/백준아이디/)
+
+
 ## Hobbies
 - Reading Books
 - Playing Chess

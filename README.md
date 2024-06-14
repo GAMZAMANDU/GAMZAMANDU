@@ -10,7 +10,8 @@
 
 **Languages**
   
-[![My Skills](https://skillicons.dev/icons?i=html,css,swift,python,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,python,c,js)](https://skillicons.dev)
++swiftUI
 
 **Frameworks(learning)**
   
@@ -25,7 +26,8 @@
 [![My Skills](https://skillicons.dev/icons?i=figma,ps,ai)](https://skillicons.dev)
 
 ## Projects
-[바로가기](https://github.com/GAMZAMANDU/12chessBot)
+discord.py를 활용한 십이장기봇 ([바로가기](https://github.com/GAMZAMANDU/12chessBot))
+
 ## Contact Me
 
 - **Email:** [galbimandu1126@gmail.com](mailto:galbimandu1126@gmail.com)

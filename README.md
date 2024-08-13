@@ -3,19 +3,23 @@
 ## About Me
 
 - 🎓 Currently a student at **Busan Software Meister High School**.
-- 🌱 learning the **Express framework** of **Nord.js** and **Next.js**
+- 🌱 learning the **Express framework** of **Nord.js** and **React**
 - 💻 Passionate about coding and continuously improving my skills.
 
 ## Skills
 
 **Languages**
   
-[![My Skills](https://skillicons.dev/icons?i=html,css,python,c,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,python,c,js,react)](https://skillicons.dev)
 +swiftUI
 
-**Frameworks(learning)**
+**Frameworks**
   
-[![My Skills](https://skillicons.dev/icons?i=express,next)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express,fastapi)](https://skillicons.dev)
+
+**Sever**
+
+[![My Skills](https://skillicons.dev/icons?i=sqlite)](https://skillicons.dev)
 
 **Tools**
   

@@ -10,7 +10,7 @@
 
 **Languages**
   
-[![My Skills](https://skillicons.dev/icons?i=html,css,python,c,js,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,c,react)](https://skillicons.dev)
 +swiftUI
 
 **Frameworks**

@@ -22,7 +22,7 @@
 [![My Skills](https://skillicons.dev/icons?i=sqlite)](https://skillicons.dev)
 
 **Learing**<br>
-[![My Skills](https://skillicons.dev/icons?i=go,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=redis)](https://skillicons.dev)
 
 **Tools**
   

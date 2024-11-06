@@ -14,7 +14,7 @@
 
 **Frameworks**
   
-[![My Skills](https://skillicons.dev/icons?i=express,fastapi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi)](https://skillicons.dev)
 
 **Sever**
 

@@ -3,7 +3,7 @@
 ## About Me
 
 - 🎓 Currently a student at **Busan Software Meister High School**.
-- 🌱 learning the **Next.js, Mocha**
+- 🌱 learning the **Next.js, Kotlin**
 - 💻 Passionate about coding and continuously improving my skills.
 
 ## Skills

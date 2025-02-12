@@ -19,7 +19,9 @@ jobs:
         run: |
           git config user.name GAMZAMANDU
           git config user.email galbimandu1126@gmail.com
+          git remote set-url origin https://github.com/GAMZAMANDU/GAMZAMANDU.git
           git add -A .
-          git commit -m "generated"
-          git push
+          git commit -m "generated [ci skip]"
+          git push https://$GH_TOKEN@github.com/GAMZAMANDU/GAMZAMANDU.git
+
 

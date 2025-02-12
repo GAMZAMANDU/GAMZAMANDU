@@ -6,7 +6,7 @@
 - 🌱 learning the **Next.js, Go**
 - 💻 Passionate about coding and continuously improving my skills.
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-gitblock.svg)
 
 ## Skills
 

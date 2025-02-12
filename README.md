@@ -1,51 +1,25 @@
-# Hi there, I'm Jeonghyeok Lee! 👋
-
-## About Me
-
-- 🎓 Currently a student at **Busan Software Meister High School**.
-- 🌱 learning the **Next.js, Go**
-- 💻 Passionate about coding and continuously improving my skills.
+<div align="center">
+  
+  ### Hello, I'm Jeonghyeok Lee! 👋
+  <b> I'm studying backend and my hobby is chess</b>
+  <br/>
+  <br/>
+  <div>  
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+  </div>
+</div>
+<br/>
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
-## Skills
-
-**Languages**
+## 📦 Projects
+- 🚀 RSS기반 AI 정보 어시스턴트 앱 [🔗](https://github.com/Team-Found/SANDDEOT-App)
+- 🧸 discord.py를 활용한 십이장기봇 [🔗](https://github.com/GAMZAMANDU/12chessBot)
+- 🧸 discord.py를 활용한 턴제카드 게임봇 [🔗](https://github.com/GAMZAMANDU/DeathCard)
+- 🧸 관광데이터를 활용한 지역명소 포토헌트 앱 [🔗](https://github.com/FindOut-Hackathon)
   
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,c,react)](https://skillicons.dev)
-
-**Frameworks**
-  
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi)](https://skillicons.dev)
-
-**Sever**
-
-[![My Skills](https://skillicons.dev/icons?i=sqlite,redis)](https://skillicons.dev)
-
-**Learing**<br>
--Mocha
-[![My Skills](https://skillicons.dev/icons?i=mocha)](https://skillicons.dev)
-
-**Tools**
-  
-[![My Skills](https://skillicons.dev/icons?i=vscode,clion)](https://skillicons.dev)
-
-**Design**
-  
-[![My Skills](https://skillicons.dev/icons?i=figma,ps,ai)](https://skillicons.dev)
-
-## Projects
-- discord.py를 활용한 십이장기봇 ([바로가기](https://github.com/GAMZAMANDU/12chessBot))
-- discord.py를 활용한 게임봇 ([바로가기](https://github.com/GAMZAMANDU/DeathCard))
-- AI 추천 RSS로 정보 습득이 쉬워지는 순간! ([바로가기](https://github.com/Team-Found/SANDDEOT-App))
-- 관광에 재미를 더하다 ([바로가기](https://github.com/FindOut-Hackathon))
-## Contact Me
-
+## ☎️ Contact Me
 - **Email:** [galbimandu1126@gmail.com](mailto:galbimandu1126@gmail.com)
-
-## GitHub Stats
-
-![Jeonghyuk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gamzamandu&show_icons=true&theme=radical)
-
-## Backjun
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=garic)](https://solved.ac/백준아이디/)
